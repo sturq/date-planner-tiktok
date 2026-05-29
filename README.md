@@ -8,8 +8,6 @@
 
 ![demo](demo.gif)
 
-*(full quality mp4: [demo.mp4](demo.mp4))*
-
 ## what it does
 
 five-step flow, same as the original:
