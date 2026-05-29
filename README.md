@@ -8,9 +8,9 @@
 
 ## the video
 
-[![demo video](poster.png)](demo.mp4)
+![demo](demo.gif)
 
-*(click the image to play, or grab the file directly: [demo.mp4](demo.mp4))*
+*(full quality mp4: [demo.mp4](demo.mp4))*
 
 ## what it does
 
