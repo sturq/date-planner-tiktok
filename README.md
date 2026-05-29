@@ -2,7 +2,7 @@
 
 1:1 clone of the date-planner page from the viral TikTok where a girl reacts to an IT guy sending her a website asking her out.
 
-**live demo:** https://sturq.github.io/gf/
+**live demo:** https://sturq.github.io/date-planner-tiktok/
 
 **og page:** https://date-planner.replit.app
 
