@@ -4,8 +4,6 @@
 
 **live demo:** https://sturq.github.io/date-planner-tiktok/
 
-**og page:** https://date-planner.replit.app
-
 ## the video
 
 ![demo](demo.gif)
