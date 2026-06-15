@@ -21,3 +21,7 @@ five-step flow, same as the original:
 ## stack
 
 plain html / css / js. no build step, no deps. drop into any static host.
+
+## License
+
+AGPL-3.0 — see [LICENSE](LICENSE). Forks and hosted modifications must keep the source open.
